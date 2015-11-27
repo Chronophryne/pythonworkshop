@@ -1,3 +1,4 @@
 born
+travelled
 educated
-still learning
+still going to keep learning
